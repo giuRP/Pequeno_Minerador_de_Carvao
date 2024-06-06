@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - AgentConfiner
+  - Water
+  - UI
+  - Player
+  - Enemies
+  - AgentCollider
+  - Exits
+  - PressurePlate
+  - LevelCollider
+  - CameraCollider
+  - PickableItens
+  - PlayerOnlyCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2925677953
+    locked: 0
+  - name: Player
+    uniqueID: 2634751685
+    locked: 0
+  - name: Agents
+    uniqueID: 2318539019
+    locked: 0
+  - name: Weapons
+    uniqueID: 3703907019
+    locked: 0
+  - name: Front
+    uniqueID: 1876504155
+    locked: 0
+  - name: UI
+    uniqueID: 3534219185
+    locked: 0

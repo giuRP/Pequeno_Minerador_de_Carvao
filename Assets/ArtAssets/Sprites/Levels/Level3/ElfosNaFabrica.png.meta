@@ -1,0 +1,1763 @@
+fileFormatVersion: 2
+guid: 1aa38d81ebfb2ab4c9cdcfff87adeddb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElfosNaFabrica_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f0502341676bf488746b9d4b3e841e
+      internalID: -118872458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2c3fb5ae7681c4183103a3ddaf22ee
+      internalID: 2075586997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd8f9402bba90f4ebbcfb3c3d52114c
+      internalID: 595413526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9fbbab78cb56941b49b54223049946
+      internalID: 2026392857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74fb1554146f2f4f84910a11388774a
+      internalID: 330241809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a07b45d954174eb4b368e1d86540e
+      internalID: -1783566021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a6faffd8eb9ce43b4400c7f58bdc86
+      internalID: 242758126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e922b5a2efba743ade909909fcb8e5
+      internalID: 968625201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e37db138940a84fb358ab08dc40993
+      internalID: -717265333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f846573c1395940a5c7f06afe70c5d
+      internalID: -1102491771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f054c46f491c24c9964fab8dac12d6
+      internalID: -1237753484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d370626e0517fb4fa2188f83fb4594a
+      internalID: 865188300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eea0d907effea6438374659ac74b9eb
+      internalID: -748707635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aaf5694c95b914b9a29e0b0cbd5b04
+      internalID: 194549172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5dd3885e7b1a44b8317cf8e2b1614a
+      internalID: -848147784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d41aa20bb4f64d96f8ff19fa0a761
+      internalID: -468620051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f9057c6627300458ad8f96f5c72934
+      internalID: -1605199622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_17
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e1e35dffa2316459d2f94b65ec3280
+      internalID: -1464702105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_18
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129760364e51af4f9db0c3abd80daaa
+      internalID: 1983424545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_19
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c74c6057d33af40bb2392abc4b3f00
+      internalID: -1716482990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a03aaf60397125408f696ca413381ac
+      internalID: 896065785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_21
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c0549b8d7dfbc4f92eef3ea678da09
+      internalID: -582892989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d717a5bfd6184487ba1bba7a7d8cc
+      internalID: 862268711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc9c0b7bae4e7a4ca0c69fe064322ef
+      internalID: 822056146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_24
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2733b3317599214c9e88fff3e99a1b7
+      internalID: -2058254260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_25
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b88fa40b526864b86ea3a244e08b97
+      internalID: -227958933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_26
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66c675d2f1a10049a1e90e3afc9dfff
+      internalID: 1332375006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_27
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa581f6addf6382498118f2be259f13d
+      internalID: 259057101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_28
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ddeaabac25f54bbaf10d11ef04045
+      internalID: 237363468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_29
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110d13ff78d2f0498d4d9afcdb9c092
+      internalID: -292017461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_30
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf19eab86e62ba4bab525cae1d4c460
+      internalID: 880479390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_31
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d547b63f9f294364abd0109a776e2ab4
+      internalID: 42805573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_32
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ebac3b1b4f5e5448a042d8a11019e1
+      internalID: -1905485822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_33
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7105eb2bf1f8d554785bd2cc25b2587c
+      internalID: 1334849941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_34
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380de192704a86d40b95d726a07f807a
+      internalID: -243169574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_35
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed78a8963687d345ba8cc732682009b
+      internalID: 1212453559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_36
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22db94351ec5424796b340aa872e062
+      internalID: 2108247610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_37
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1d74eba2b012a4e831f7ff83e2dfc9
+      internalID: 424594677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_38
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d30925a53ae2a043aa90a35dd97416b
+      internalID: -1501429226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_39
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4ac3e97cbd7a7408e8fe7d71dd2448
+      internalID: 281255379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_40
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d4ef3372a5ff648b31f28448cafeb0
+      internalID: -328097894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_41
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2edbab047c18d4bb9e6e05988d44cb
+      internalID: -69475669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_42
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b521f6fd91c04fe4b89ddd9c8f6d8424
+      internalID: 2070108281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_43
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af4948fd541d64797e7d27609a2c25
+      internalID: 1569740786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_44
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565db28b645c064494c7f7e44128c39
+      internalID: -222529283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_45
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4c4f6789c6afd4482e5bde3f387afe
+      internalID: -1669872572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_46
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4647d232d216c64589a999453634388
+      internalID: -339222791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_47
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d6c4a9986b87443bf61d8584d00163
+      internalID: 291418779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_48
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb556267cab724596dff2c21cd925e
+      internalID: 1066287838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_49
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3179f4eb765b40f41aeaa4e374a06e89
+      internalID: -1042052998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_50
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87a8f7e3f924dc4da296b6f6c5cf848
+      internalID: 883507450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_51
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b1dbf24a86bdf43ab0cabcf3a9e007
+      internalID: 1282587510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_52
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72243e5f55730e409fd07457d6c922d
+      internalID: 1599100391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_53
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bf31e3ed1cba845a951712387932d6
+      internalID: -1761131429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_54
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81397c5e2e0e823408ef44b9849f1ab9
+      internalID: 1795603234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_55
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff3d6cde16d7c48b90e157e9e7e604
+      internalID: -2083676818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_56
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1609c04c03b2aa428fd6e00ef42fda6
+      internalID: -2111133692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_57
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173cc9ca9aa0184b9ec98f3a6dded71
+      internalID: -1099054261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_58
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d428fc7275129d4f91b3aff42ba92b6
+      internalID: 1991449052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_59
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb45d2d1d6c5fd34fa28adbccb5c4e9f
+      internalID: -646053028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_60
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c0245c05eed2498a5a2db454b81e0
+      internalID: 1730458088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_61
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432c38433b1a89b4193a8b1edc91d0a8
+      internalID: -1700483265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_62
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d172c0e57d2b34042868a5032338ac37
+      internalID: -2109829642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_63
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2f4795c2477ad4e9f4458fb41424a7
+      internalID: 1615812732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_64
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3ff6dc3a4d29a4b8938324c0c84c64
+      internalID: 747036669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_65
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf12d255301e11438a78957eb7020d6
+      internalID: 1610108896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_66
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb1ad53c33eab14fa219a43e56b72a5
+      internalID: 1983158359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_67
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fc96cd12aa6c645af4bd5d3ce9ba0f
+      internalID: -1425750564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_68
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa49fbdcac8181a44a825c2481c743b9
+      internalID: 1249007461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_69
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a58f42bee167f43ab06b78789053d0
+      internalID: -2122915094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_70
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086bfc770e7590c46a17912b406edeeb
+      internalID: -949569398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_71
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93533923e6d41ff4ea4ab785f56105ac
+      internalID: 981577970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_72
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 83
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b251160213cca34e88b9a1c3fbd3f0c
+      internalID: -695847482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfosNaFabrica_73
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 38
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4949d46dbf3c54d4889bbc5eb5c4d0d2
+      internalID: -987046428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ElfosNaFabrica_72: -695847482
+      ElfosNaFabrica_14: -848147784
+      ElfosNaFabrica_44: -222529283
+      ElfosNaFabrica_16: -1605199622
+      ElfosNaFabrica_51: 1282587510
+      ElfosNaFabrica_17: -1464702105
+      ElfosNaFabrica_2: 595413526
+      ElfosNaFabrica_70: -949569398
+      ElfosNaFabrica_67: -1425750564
+      ElfosNaFabrica_25: -227958933
+      ElfosNaFabrica_57: -1099054261
+      ElfosNaFabrica_12: -748707635
+      ElfosNaFabrica_47: 291418779
+      ElfosNaFabrica_49: -1042052998
+      ElfosNaFabrica_48: 1066287838
+      ElfosNaFabrica_61: -1700483265
+      ElfosNaFabrica_28: 237363468
+      ElfosNaFabrica_53: -1761131429
+      ElfosNaFabrica_22: 862268711
+      ElfosNaFabrica_8: -717265333
+      ElfosNaFabrica_4: 330241809
+      ElfosNaFabrica_71: 981577970
+      ElfosNaFabrica_10: -1237753484
+      ElfosNaFabrica_45: -1669872572
+      ElfosNaFabrica_26: 1332375006
+      ElfosNaFabrica_29: -292017461
+      ElfosNaFabrica_68: 1249007461
+      ElfosNaFabrica_27: 259057101
+      ElfosNaFabrica_37: 424594677
+      ElfosNaFabrica_31: 42805573
+      ElfosNaFabrica_54: 1795603234
+      ElfosNaFabrica_64: 747036669
+      ElfosNaFabrica_60: 1730458088
+      ElfosNaFabrica_0: -118872458
+      ElfosNaFabrica_56: -2111133692
+      ElfosNaFabrica_19: -1716482990
+      ElfosNaFabrica_65: 1610108896
+      ElfosNaFabrica_32: -1905485822
+      ElfosNaFabrica_73: -987046428
+      ElfosNaFabrica_59: -646053028
+      ElfosNaFabrica_34: -243169574
+      ElfosNaFabrica_38: -1501429226
+      ElfosNaFabrica_3: 2026392857
+      ElfosNaFabrica_6: 242758126
+      ElfosNaFabrica_1: 2075586997
+      ElfosNaFabrica_11: 865188300
+      ElfosNaFabrica_13: 194549172
+      ElfosNaFabrica_55: -2083676818
+      ElfosNaFabrica_41: -69475669
+      ElfosNaFabrica_33: 1334849941
+      ElfosNaFabrica_69: -2122915094
+      ElfosNaFabrica_42: 2070108281
+      ElfosNaFabrica_21: -582892989
+      ElfosNaFabrica_52: 1599100391
+      ElfosNaFabrica_66: 1983158359
+      ElfosNaFabrica_39: 281255379
+      ElfosNaFabrica_62: -2109829642
+      ElfosNaFabrica_46: -339222791
+      ElfosNaFabrica_58: 1991449052
+      ElfosNaFabrica_18: 1983424545
+      ElfosNaFabrica_63: 1615812732
+      ElfosNaFabrica_9: -1102491771
+      ElfosNaFabrica_30: 880479390
+      ElfosNaFabrica_7: 968625201
+      ElfosNaFabrica_24: -2058254260
+      ElfosNaFabrica_43: 1569740786
+      ElfosNaFabrica_23: 822056146
+      ElfosNaFabrica_5: -1783566021
+      ElfosNaFabrica_35: 1212453559
+      ElfosNaFabrica_20: 896065785
+      ElfosNaFabrica_36: 2108247610
+      ElfosNaFabrica_50: 883507450
+      ElfosNaFabrica_40: -328097894
+      ElfosNaFabrica_15: -468620051
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

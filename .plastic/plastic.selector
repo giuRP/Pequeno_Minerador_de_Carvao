@@ -1,0 +1,4 @@
+repository "SenacJam_2023v1.0@giulianoprofeti@cloud"
+  path "/"
+    br "/main"
+    co "/main"
